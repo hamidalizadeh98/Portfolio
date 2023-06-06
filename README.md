@@ -141,7 +141,6 @@ Example commands:
   git clone git@github.com:mm-pazouki/Portfolio.git
 ```
 
-
 ### Install
 
 Install this project with:
